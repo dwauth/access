@@ -1,6 +1,6 @@
 {
   "name": "@dwauth/access",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "dWeb-based Access Control For Users Authenticating Via dwAuth.",
   "contributors": [
     "Jared Rice Sr. <jared@dwebs.io>",
